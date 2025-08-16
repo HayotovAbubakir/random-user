@@ -466,3 +466,11 @@ i {
   color: #fff;
   background-color: #000;
 }
+
+.dark .fa-trash {
+  color: #fff;
+}
+
+.dark li {
+  box-shadow: 2px 2px 0px 0px white;
+}
