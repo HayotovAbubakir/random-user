@@ -1,5 +1,5 @@
 // api
-const API = "https://randomuser.me/api/?results=5";
+const API = "https://randomuser.me/api/?results=501";
 
 // for leader
 const overlay = document.getElementById("overlay");

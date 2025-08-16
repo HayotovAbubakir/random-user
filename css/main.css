@@ -452,3 +452,17 @@ i {
     justify-content: center;
   }
 }
+
+.dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.dark span {
+  color: #fff;
+}
+
+.dark .header {
+  color: #fff;
+  background-color: #000;
+}
